@@ -19,5 +19,5 @@ model_ventas/
 ├─ config.yaml
 └─ .gitignore
 
-# Pasos para la ejecución
-## Paso 1: Clonar el Proyecto desde su propio Github
+Pasos para la ejecución
+# Paso 1: Clonar el Proyecto desde su propio Github
