@@ -1,0 +1,17 @@
+target_col: Phone_sale
+
+features:
+ - Balance
+ - Qual_miles
+ - Bonus_miles
+ - Bonus_trans
+ - Flight_miles_12mo
+ - Flight_trans_12
+ - Online_12
+ - Topflight_Yes
+ - cc1_miles?_Yes
+ - cc2_miles?_Yes
+ - cc3_miles?_Yes
+ - Email_Yes
+ - Club_member_Yes
+ - Any_cc_miles_12mo_Yes
