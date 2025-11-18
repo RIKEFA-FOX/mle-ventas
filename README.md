@@ -4,6 +4,9 @@ Airlines es una empresa de transporte aéreo que recientemente realizó una alia
 una empresa de telecomunicaciones para la venta de equipos de comunicación.
 Elabora un modelo predictivo que cubra las necesidades de la aerolínea, para potenciar la
 marca y realizar una venta más efectiva de equipos de comunicacion.
+
+# Pasos para la ejecución
+## Paso 1: Clonar el Proyecto desde su propio Github
 ```
 model_ventas/
 ├─ src/
@@ -19,5 +22,3 @@ model_ventas/
 ├─ config.yaml
 └─ .gitignore
 
-Pasos para la ejecución
-# Paso 1: Clonar el Proyecto desde su propio Github
