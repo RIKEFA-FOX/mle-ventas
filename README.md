@@ -1,9 +1,9 @@
 # Proyecto: Predecir Ventas Telefono Celular
 
-# Airlines es una empresa de transporte aéreo que recientemente realizó una alianza con
-# una empresa de telecomunicaciones para la venta de servicios de comunicación.
-# Elabora un modelo predictivo que cubra las necesidades de la aerolínea, para potenciar la
-# marca y realizar una venta más efectiva de equipo de comunicacion.
+Airlines es una empresa de transporte aéreo que recientemente realizó una alianza con
+una empresa de telecomunicaciones para la venta de servicios de comunicación.
+Elabora un modelo predictivo que cubra las necesidades de la aerolínea, para potenciar la
+marca y realizar una venta más efectiva de equipo de comunicacion.
 ```
 model_ventas/
 ├─ src/
