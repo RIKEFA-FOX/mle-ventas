@@ -18,3 +18,6 @@ model_ventas/
 ├─ requirements.txt
 ├─ config.yaml
 └─ .gitignore
+
+# Pasos para la ejecución
+## Paso 1: Clonar el Proyecto desde su propio Github
